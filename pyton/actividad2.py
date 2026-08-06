@@ -1,0 +1,5 @@
+nombre = input("Nombre completo:")
+edad = input("edad:")
+cuidad = input("cuidad de residencia")
+programa = input("Progrma academico")
+print(f"\nHola {nombre}, tienes {edad},vives en {cuidad} y estudias{ programa}.")
